@@ -27,6 +27,8 @@ Shopping_Cart/
 
 ## How To Run
 
+
+
 ### Requirements
 
 - JDK 8 or later
@@ -77,3 +79,9 @@ More details are available in `DEPLOYMENT.md`.
 - Generate printable invoice files
 - Build a GUI using JavaFX or Swing
 - Add unit tests with JUnit
+## output
+output.png
+
+
+
+
